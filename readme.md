@@ -1,6 +1,9 @@
 Hi, I'm Abdullah Baqai 👋
+
 🎓 Artificial Intelligence Graduate
+
 🤖 I build ML & DL systems with Python, PyTorch & TensorFlow
+
 🧠 Focused on Computer Vision, NLP, and Healthcare AI
 
 🚀 Notable Projects:
